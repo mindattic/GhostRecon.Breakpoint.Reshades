@@ -1,0 +1,5 @@
+ReShade.log
+ReShadePreset.ini
+*.addon
+*.addon64
+ReShade_*.bin
