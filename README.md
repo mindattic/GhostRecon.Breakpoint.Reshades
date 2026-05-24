@@ -4,6 +4,16 @@ A ready-to-use ReShade 6.7.3 setup for **Tom Clancy's Ghost Recon Breakpoint** w
 
 ---
 
+## TL; DR
+
+1. Extract to directory containing `GRB.exe` 
+2. Run `Reshade.exe`
+3. Select `GRB.exe`
+4. Run `GRB.exe`
+5. Press `Home` to open Reshade UI
+
+---
+
 ## What's inside
 
 | Path                    | What it is                                                       |
