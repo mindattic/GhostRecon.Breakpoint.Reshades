@@ -6,9 +6,9 @@ A ready-to-use ReShade 6.7.3 setup for **Tom Clancy's Ghost Recon Breakpoint** w
 
 ## TL; DR
 
-1. Download from `https://github.com/mindattic/GhostRecon.Breakpoint.Reshades/releases/tag/v2`
+1. Download [GhostRecon.Breakpoint.Reshades-v2.zip](https://github.com/mindattic/GhostRecon.Breakpoint.Reshades/releases/download/v2/GhostRecon.Breakpoint.Reshades-v2.zip)
 2. Extract to directory containing `GRB.exe` 
-3. Run `Reshade.exe`
+3. Run `ReShade_Setup_6.7.3.exe`
 4. Select `GRB.exe`
 5. Run `GRB.exe`
 6. Press `Home` to open Reshade UI
